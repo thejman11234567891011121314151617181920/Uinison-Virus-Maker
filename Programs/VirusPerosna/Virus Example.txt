@@ -1,0 +1,2 @@
+if = know
+virus if run = destroy computer
